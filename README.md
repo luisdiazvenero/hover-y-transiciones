@@ -1,2 +1,2 @@
-# Hover y transiciones
-Efecto de transiciones al pasar el mouse
+# Hover y transiciones CSS
+Efecto de transiciones con CSS al pasar el mouse.
